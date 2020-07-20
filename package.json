@@ -1,5 +1,5 @@
 {
-  "name": "@blundin/note-link-janitor",
+  "name": "blundin/note-link-janitor",
   "version": "0.0.2",
   "author": "Andy Matuschak",
   "main": "out/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": "blundin/note-link-janitor",
   "dependencies": {
-    "@blundin/note-link-janitor": "file:.",
+    "blundin/note-link-janitor": "file:.",
     "@types/mdast": "^3.0.3",
     "pagerank.js": "^1.0.2",
     "remark": "^11.0.1",
