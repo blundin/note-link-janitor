@@ -1,5 +1,7 @@
 # note-link-janitor
 
+**This repo is forked from the orginal for modifications**
+
 This script reads in a folder of Markdown files, notes all the [[wiki-style links]] between them, then adds a special "backlinks" section which lists passages which reference a given file.
 
 For example, this text might get added to `Sample note.md`:
@@ -33,7 +35,7 @@ This is FYI-style open source. I'm sharing it for interested parties, but withou
 To install a published release, run:
 
 ```
-yarn global add @andymatuschak/note-link-janitor
+yarn global add @blundin/note-link-janitor
 ```
 
 Then to run it (note that it will modify your `.md` files _in-place_; you may want to make a backup!):
