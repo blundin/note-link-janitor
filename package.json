@@ -1,6 +1,6 @@
 {
   "name": "@blundin/note-link-janitor",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "author": "Brian Lundin",
   "main": "out/index.js",
   "license": "MIT",
