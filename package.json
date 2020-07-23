@@ -1,7 +1,7 @@
 {
   "name": "blundin/note-link-janitor",
-  "version": "0.0.2",
-  "author": "Andy Matuschak",
+  "version": "0.0.3",
+  "author": "Andy Matuschak, Brian Lundin",
   "main": "out/index.js",
   "license": "MIT",
   "devDependencies": {
